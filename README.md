@@ -14,4 +14,6 @@ Register the user:
 
 4. OTP Validation 5 MIN
 
-5. Every time asks for OTP.
+5. Every time asks for OTP
+
+6 . Queue process included.
